@@ -14,8 +14,8 @@ The stack consists of the following components:
 ## Getting Started 
 1. **Clone the repository**
    ```bash
-    git clone https://github.com/GreenPiPizi/my-monitoring-stack.git
-    cd my-monitoring-stack
+    git clone https://github.com/GreenPiPizi/monitoring-stack.git
+    cd monitoring-stack
    ```
 
 2. **Start the stack**
