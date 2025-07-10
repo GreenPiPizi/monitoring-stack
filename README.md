@@ -1,6 +1,5 @@
- ```markdown
-        ![Grafana Dashboard Screenshot](dashboard.png)
- ```
+![](./dashboard.png)
+
 
 # My Monitoring Stack
 
